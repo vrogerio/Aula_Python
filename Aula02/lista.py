@@ -7,3 +7,4 @@ for i in range(50):
 
 for i, imposto in enumerate(lista):
 	print (i, imposto)
+	

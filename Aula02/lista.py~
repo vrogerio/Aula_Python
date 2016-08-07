@@ -4,3 +4,8 @@ for imposto in lista:
 
 for i in range(50):
 	print(i)
+
+for i, imposto in enumerate(lista):
+	print (i, imposto)
+
+print(len("p:\Builds\21\SH0768_SIGA_SAUDE\Dev_SH0768\src\spa\spring\spring-framework-3.0.6.RELEASE-dependencies\com.oracle.toplink.essentials\com.springsource.oracle.toplink.essentials\2.0.0.b41-beta2\com.springsource.oracle.toplink.essentials-sources-2.0.0.b41-beta2.jar"))	
